@@ -79,7 +79,7 @@ Future work may explore transformer-based architectures and larger datasets.
 
 ## Research Paper
 
-A full written research paper was produced as part of this project. This work has not been peer-reviewed or formally published.
+This project resulted in a published research paper in the American Journal of Student Research (AJOSR) on the limits of linguistic and Zipfian features for autism classification using neural networks.
 
 ---
 
